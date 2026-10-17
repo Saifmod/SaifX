@@ -1,3 +1,3 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Saifmod/SaifX/refs/heads/main/obf_o2v87D30z26346bxSnR752qSQsKEIss9Z0q4f2j0HdQS0Tn68605KQ0DXP15LdOv.lua.txt"))()
 task.wait(10)
-loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/82d516/994AH8VIp0DT9FTl"))()
+loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/82d516/Yxm1NCfw8eciyP2J"))()
